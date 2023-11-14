@@ -1,0 +1,4 @@
+opencart-*.zip
+docker/.env
+docker/logs/
+storage/
